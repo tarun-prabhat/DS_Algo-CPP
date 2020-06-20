@@ -20,7 +20,7 @@ int position(int n, int k){
 //   cin>>n>>k;
 //   cout<<position(n,k)+1;
 // }
-//The switch between k-1 and n+1 and k and %n is because for border case where 0+2%2 = 0 and 1+2%2 +1 = 1  
+//The switch between k-1 and n+1 and k and %n is because for border case where 0+2%2 = 0 and 1+1%2 +1 = 1  
 
 
 int main() {
